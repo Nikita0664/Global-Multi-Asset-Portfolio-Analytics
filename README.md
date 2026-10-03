@@ -353,11 +353,11 @@ Global Multi Assets Portfolio Analysis Platform.pbix
 
 # Author
 
-**Vipul Paighan**
+**Nikita Kumare**
 
-Email: **vipul.paighan.in@gmail.com**
+Email: **nikkikumare664@gmail.com**
 
-GitHub: https://github.com/vipulsystems
+GitHub: https://github.com/Nikita0664
 
 ---
 
